@@ -3,7 +3,9 @@
     <img src="https://storage.googleapis.com/codingid-storage-bucket/storage/uploads/coach-event/1644218369WhatsApp%20Image%202022-01-18%20at%2016.09.43.png" alt="Ziyad Syauqi" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Supranatural+Data+Scientist;Mineral+Water+Mathematician;Eternal+Learner)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Supranatural+Data+Scientist;Mineral+Water+Mathematician;Eternal+Learner" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **ziyadn/ziyadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
