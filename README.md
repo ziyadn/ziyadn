@@ -1,23 +1,18 @@
 <p align="center">
   <a href="https://github.com/ziyadn">
-    <img src="https://storage.googleapis.com/codingid-storage-bucket/storage/uploads/coach-event/1644218369WhatsApp%20Image%202022-01-18%20at%2016.09.43.png" alt="Ziyad Syauqi" /></a>
+    <img width="150px" src="https://storage.googleapis.com/codingid-storage-bucket/storage/uploads/coach-event/1644218369WhatsApp%20Image%202022-01-18%20at%2016.09.43.png" alt="Ziyad Syauqi" /></a>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Supranatural+Data+Scientist;Mineral+Water+Mathematician;Eternal+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Professional+Data+Scientist;Minerva+of+Mathematician;Teach+&+Learn" alt="Typing SVG" /></a>
 </p>
 
-<!--
-**ziyadn/ziyadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ziyadsyauqif/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Scientist Team in Indonesia
+- 🌱 I’m currently learning AGI, Data Visualization, and Storytelling
+- 👯 I’m looking to collaborate on Data Scientist Topics
+- 💬 Ask me about anything!
